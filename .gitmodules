@@ -1,0 +1,6 @@
+[submodule "company"]
+	path = company
+	url = https://github.com/bolathedev/vue-module-federation-sample-application-company.git
+[submodule "shops"]
+	path = shops
+	url = https://github.com/bolathedev/vue-module-federation-sample-application-shop.git
