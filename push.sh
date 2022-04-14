@@ -1,11 +1,11 @@
 cd "company"
-
+git add .
 git commit -m "most recent commit"
 
 cd ..
 
 cd "shops"
-
+git add .
 git commit -m "most recent commit"
 
 cd ..
